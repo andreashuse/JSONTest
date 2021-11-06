@@ -1,0 +1,36 @@
+{
+  "UserInfo":[
+    {
+      "UserId": "0",
+      "firstname": "Andreas",
+      "surname": "Huse",
+      "PlayerDesc": "Creator of game",
+      "MaxGold": "523",
+      "Team": "Red"
+    },
+    {
+      "UserId": "1",
+      "firstname": "Terry",
+      "surname": "Smith",
+      "PlayerDesc": "Likes video games",
+      "MaxGold": "23",
+      "Team": "Blue"
+    },
+    {
+      "UserId": "2",
+      "firstname": "Emily",
+      "surname": "Jones",
+      "PlayerDesc": "Is into coding and landscape",
+      "MaxGold": "1354",
+      "Team": "Blue"
+    },
+    {
+      "UserId": "3",
+      "firstname": "Olivia",
+      "surname": "Brown",
+      "PlayerDesc": "Mad about exercise but loves a good steak",
+      "MaxGold": "754",
+      "Team": "Red"
+    }
+  ]
+}
