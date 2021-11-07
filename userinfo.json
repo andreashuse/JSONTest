@@ -1,12 +1,14 @@
 {
   "UserInfo":[
     {
+      "UserID": "0",
       "SteamID64": "76561198052441319",
       "SteamID32": "92175591",
       "SteamUsername": "Gangbalf",
       "IngamePoints": "500000"
     },
     {
+      "UserID": "1",
       "SteamID64": "13578954231579034",
       "SteamID32": "30894873",
       "SteamUsername": "Mangbalf",
